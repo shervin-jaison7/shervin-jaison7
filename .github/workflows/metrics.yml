@@ -1,0 +1,20 @@
+# This workflow is DISABLED — stats are now served via direct API URLs in README.md.
+# You can safely delete this file.
+# 
+# If you want to re-enable lowlighter/metrics, you'll need to:
+# 1. Create a METRICS_TOKEN secret (a GitHub PAT with read:user scope)
+# 2. Uncomment the jobs below
+
+name: "[DISABLED] Generate GitHub Metrics"
+
+on:
+  workflow_dispatch: # manual only — auto triggers disabled
+
+# jobs:
+#   metrics:
+#     runs-on: ubuntu-latest
+#     steps:
+#       - name: Generate Metrics
+#         uses: lowlighter/metrics@latest
+#         with:
+#           token: ${{ secrets.METRICS_TOKEN }}
