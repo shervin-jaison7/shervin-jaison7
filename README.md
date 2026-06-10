@@ -71,47 +71,54 @@
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="28" />
 </h2>
 
-<h3 align="center">🛡️ Offensive Security & Pentesting</h3>
+<h3 align="center">🛡️ Technical Skills in Offensive Security & Pentesting</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="Burp Suite" />
-  <img src="https://img.shields.io/badge/OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white" alt="Nmap" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" alt="Metasploit" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" alt="Wireshark" />
-  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=flat-square&logoColor=white" alt="SQLMap" />
-  <img src="https://img.shields.io/badge/Hashcat-5C2D91?style=flat-square&logoColor=white" alt="Hashcat" />
-  <img src="https://img.shields.io/badge/MobSF-6A1B9A?style=flat-square&logoColor=white" alt="MobSF" />
-  <img src="https://img.shields.io/badge/Frida-E91E63?style=flat-square&logoColor=white" alt="Frida" />
-  <img src="https://img.shields.io/badge/Objection-9C27B0?style=flat-square&logoColor=white" alt="Objection" />
+  <img src="https://img.shields.io/badge/Web_VAPT-FF5722?style=flat-square" />
+  <img src="https://img.shields.io/badge/API_VAPT-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/Android_VAPT-3DDC84?style=flat-square" />
+  <img src="https://img.shields.io/badge/iOS_VAPT-000000?style=flat-square&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/IoT_VAPT-607D8B?style=flat-square" />
+  <img src="https://img.shields.io/badge/Plugin_Security_Testing-7B1FA2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Secure_Code_Review-1976D2?style=flat-square" />
+  <img src="https://img.shields.io/badge/Vulnerability_Assessment-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/Incident_Response-D32F2F?style=flat-square" />
+  <img src="https://img.shields.io/badge/Root_Cause_Analysis-5D4037?style=flat-square" />
 </p>
 
-<h3 align="center">📱 Mobile & Application Security</h3>
+<h3 align="center">📱 Frameworks & Standards</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Android_Pentesting-3DDC84?style=flat-square&logo=android&logoColor=white" alt="Android" />
-  <img src="https://img.shields.io/badge/iOS_Pentesting-000000?style=flat-square&logo=apple&logoColor=white" alt="iOS" />
-  <img src="https://img.shields.io/badge/API_Security-FF5722?style=flat-square&logo=fastapi&logoColor=white" alt="API Security" />
-  <img src="https://img.shields.io/badge/Secure_Code_Review-1976D2?style=flat-square&logo=github&logoColor=white" alt="Code Review" />
-  <img src="https://img.shields.io/badge/Threat_Modelling-7B1FA2?style=flat-square&logoColor=white" alt="Threat Modelling" />
-  <img src="https://img.shields.io/badge/AD_Pentesting-4CAF50?style=flat-square&logo=microsoft&logoColor=white" alt="ADPT" />
+  <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_API_Top_10-222222?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_MASVS-4CAF50?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP_MSTG-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/CWE-1565C0?style=flat-square" />
+  <img src="https://img.shields.io/badge/CVSS-E65100?style=flat-square" />
+  <img src="https://img.shields.io/badge/NIST_CSF-283593?style=flat-square" />
+  <img src="https://img.shields.io/badge/PTES-7B1FA2?style=flat-square" />
+  <img src="https://img.shields.io/badge/OSSTMM-455A64?style=flat-square" />
 </p>
 
 <h3 align="center">💻 Languages & Automation</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" alt="Bash" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" alt="PowerShell" />
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Python-14354C?style=flat-square&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-<h3 align="center">☁️ Infrastructure & Cloud Security</h3>
+<h3 align="center">☁️ Tools</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-  <img src="https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white" alt="Nginx" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/MobSF-6A1B9A?style=flat-square" />
+  <img src="https://img.shields.io/badge/Frida-E91E63?style=flat-square" />
+  <img src="https://img.shields.io/badge/Objection-8E24AA?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/Hashcat-5C2D91?style=flat-square" />
+  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
 </p>
 
 <br/>
