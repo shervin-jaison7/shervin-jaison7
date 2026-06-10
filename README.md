@@ -85,17 +85,19 @@
   <img src="https://img.shields.io/badge/Root_Cause_Analysis-5D4037?style=flat-square" />
 </p>
 
-<h3 align="center">📱 Frameworks & Standards</h3>
+<h3 align="center">📚 Security Methodologies & Standards</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/OWASP_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_API_Top_10-222222?style=flat-square&logo=owasp&logoColor=white" />
-  <img src="https://img.shields.io/badge/OWASP_MASVS-4CAF50?style=flat-square" />
-  <img src="https://img.shields.io/badge/OWASP_MSTG-009688?style=flat-square" />
+  <img src="https://img.shields.io/badge/OWASP_API_Top_10-000000?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_Testing_Guide_v4.2-1E88E5?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_MASVS-43A047?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_MSTG-00897B?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/MITRE_ATT%26CK-A61C3C?style=flat-square" />
+  <img src="https://img.shields.io/badge/CVSS_v3.1-F57C00?style=flat-square" />
   <img src="https://img.shields.io/badge/CWE-1565C0?style=flat-square" />
-  <img src="https://img.shields.io/badge/CVSS-E65100?style=flat-square" />
   <img src="https://img.shields.io/badge/NIST_CSF-283593?style=flat-square" />
   <img src="https://img.shields.io/badge/PTES-7B1FA2?style=flat-square" />
-  <img src="https://img.shields.io/badge/OSSTMM-455A64?style=flat-square" />
+  <img src="https://img.shields.io/badge/Secure_SDLC-2E7D32?style=flat-square" />
 </p>
 
 <h3 align="center">💻 Languages & Automation</h3>
