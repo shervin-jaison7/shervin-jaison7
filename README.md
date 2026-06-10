@@ -262,9 +262,6 @@
   <a href="https://github.com/shervin-jaison7">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="https://sjcreations.in">
-    <img src="https://img.shields.io/badge/Website-sjcreations.in-00D4FF?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
-  </a>
   <a href="https://linkedin.com/in/shervin_jaison7">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -284,7 +281,7 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="divider" />
 
 <!-- ╔══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                    🔥 www.sjcreations.in 🔥                 ║ -->
+<!-- ║                    🔥 SHERVIN M JAISON 🔥                   ║ -->
 <!-- ╚══════════════════════════════════════════════════════════════╝ -->
 
 <p align="center">
