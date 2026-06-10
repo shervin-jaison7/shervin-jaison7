@@ -109,18 +109,24 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" />
 </p>
 
-<h3 align="center">☁️ Tools</h3>
+<h3 align="center">🛠️ Security Tools & Platforms</h3>
 <p align="center">
-  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Burp_Suite_Pro-FF6633?style=flat-square&logo=burpsuite&logoColor=white" />
+  <img src="https://img.shields.io/badge/OWASP_ZAP-00549E?style=flat-square&logo=owasp&logoColor=white" />
+  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nessus-00C176?style=flat-square" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=flat-square" />
+  <img src="https://img.shields.io/badge/FFUF-F57C00?style=flat-square" />
+  <img src="https://img.shields.io/badge/Nuclei-7B1FA2?style=flat-square" />
   <img src="https://img.shields.io/badge/MobSF-6A1B9A?style=flat-square" />
   <img src="https://img.shields.io/badge/Frida-E91E63?style=flat-square" />
-  <img src="https://img.shields.io/badge/Objection-8E24AA?style=flat-square" />
-  <img src="https://img.shields.io/badge/Nmap-0E83CD?style=flat-square&logo=nmap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Metasploit-2596CD?style=flat-square&logo=metasploit&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQLMap-CC0000?style=flat-square" />
-  <img src="https://img.shields.io/badge/Hashcat-5C2D91?style=flat-square" />
-  <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=flat-square&logo=kalilinux&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hopper_Disassembler-455A64?style=flat-square" />
+  <img src="https://img.shields.io/badge/Fortify-1976D2?style=flat-square" />
+  <img src="https://img.shields.io/badge/SonarQube-4E9BCD?style=flat-square&logo=sonarqube&logoColor=white" />
+  <img src="https://img.shields.io/badge/Semgrep-00C853?style=flat-square" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
 </p>
 
 <br/>
